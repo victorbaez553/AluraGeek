@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Smarphone",
+      "price": "1000",
+      "image": "https://imgmedia.larepublica.pe/640x371/larepublica/original/2021/07/23/60fb38c01db62136186d62c1.webp",
+      "id": "1"
+    },
+    {
+      "name": "Reloj SmartWatch",
+      "price": "500",
+      "image": "https://nissei.com/media/catalog/product/cache/24e3af3791642c18c52611620aeb2e21/r/e/relogio-inteligente-xiaomi-redmi-watch-4-m2315w1-obsidian-preto-1.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Auricular Inalambrico",
+      "price": "700",
+      "image": "https://xmarket.com.py/cdn/shop/files/auricular-inalambrico-con-orejitas-luo-me-15-739023.jpg?v=1730905888",
+      "id": "3"
+    },
+    {
+      "name": "Tablet",
+      "price": "900",
+      "image": "https://i.blogs.es/647bd8/tablet-4503879_1920/1366_2000.jpg",
+      "id": "5"
+    }
+  ]
+}
